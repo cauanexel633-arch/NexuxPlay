@@ -1,0 +1,6 @@
+{
+  "name": "Game Hub",
+  "description": "Launcher estilo PlayStation 5 para Android com suporte completo a controles, otimização de desempenho e inicialização automática.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

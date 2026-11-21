@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Game Hub</string>
+    <string name="splash_subtitle">CONSOLE LAUNCHER</string>
+    <string name="tab_library">Biblioteca</string>
+    <string name="tab_store">Loja/Destaques</string>
+    <string name="tab_performance">Desempenho</string>
+    <string name="tab_manage_games">Gerenciar Jogos</string>
+    <string name="tab_settings">Configurações</string>
+    <string name="action_play">Jogar</string>
+    <string name="action_optimize">Otimizar Agora</string>
+    <string name="gamepad_connected">Controle conectado</string>
+    <string name="gamepad_disconnected">Sem controle</string>
+</resources>
